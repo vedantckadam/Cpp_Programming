@@ -1,4 +1,4 @@
-# Daily C++ Practice
+# C++ Practice
 
 This repository contains my daily C++ programming practice.  
 I upload 2–3 C++ programs regularly to strengthen problem-solving skills, build programming logic, and master core C++ concepts.
