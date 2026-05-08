@@ -33,7 +33,7 @@ Programs based on:
 ## Tools Used
 
 - C++
-- GCC / G++
+- G++
 
 ## Author
 
